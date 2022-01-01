@@ -16,12 +16,12 @@
 	<!--description / -->
 	<description>The Versions Rule Set project</description>
 	<!--url / -->
-	<url>https://github.com/nhojpatrick/nhojpatrick-versions-ruleset</url>
+	<url>https://github.com/nhojpatrick/nhojpatrick-qa-versions</url>
 	<!--prerequisites / -->
 	<!--issueManagement / -->
 	<issueManagement>
 		<system>GITHUB</system>
-		<url>https://github.com/nhojpatrick/nhojpatrick-versions-ruleset/issues</url>
+		<url>https://github.com/nhojpatrick/nhojpatrick-qa-versions/issues</url>
 	</issueManagement>
 	<!--ciManagement / -->
 	<!--inceptionYear / -->
@@ -44,9 +44,9 @@
 	</licenses>
 	<!--scm / -->
 	<scm>
-		<connection>scm:git:git://github.com/nhojpatrick/nhojpatrick-versions-ruleset.git</connection>
-		<developerConnection>scm:git:ssh://github.com:nhojpatrick/nhojpatrick-versions-ruleset.git</developerConnection>
-		<url>https://github.com/nhojpatrick/nhojpatrick-versions-ruleset/tree/main</url>
+		<connection>scm:git:git://github.com/nhojpatrick/nhojpatrick-qa-versions.git</connection>
+		<developerConnection>scm:git:ssh://github.com:nhojpatrick/nhojpatrick-qa-versions.git</developerConnection>
+		<url>https://github.com/nhojpatrick/nhojpatrick-qa-versions/tree/main</url>
 	</scm>
 	<!--organization / -->
 	<!--build / -->
