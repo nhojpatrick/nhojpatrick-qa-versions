@@ -155,11 +155,6 @@
 				</plugin>
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
-					<artifactId>maven-remote-resources-plugin</artifactId>
-					<version>${plugins.maven.maven-remote-resources-plugin}</version>
-				</plugin>
-				<plugin>
-					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-repository-plugin</artifactId>
 					<version>${plugins.maven.maven-repository-plugin}</version>
 				</plugin>
